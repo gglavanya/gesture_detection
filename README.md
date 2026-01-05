@@ -37,12 +37,12 @@ pip install opencv-python tensorflow numpy
 ```
 
 
-2. **Collect Data:**
-Run `collector.py`, change the `target_gesture` name, and press **'s'** to auto-capture 200 images per sign.
-3. **Train the Brain:**
-Run `train_model.py`. This will process your colored images into grayscale and save `gesture_model.h5`.
-4. **Run the App:**
-Run `master_app.py` and show your hand to the camera!
+1. **Collect Data:**`,
+   change the `target_gesture` name, and press **'s'** to auto-capture 200 images per sign.
+2. **Train the Brain:**
+ This will process your colored images into grayscale and save `gesture_model.h5`.
+3. **Run the App:**
+  and show your hand to the camera!
 
 ## 🧠 How the "Action" Works
 
